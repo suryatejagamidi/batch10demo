@@ -6,7 +6,7 @@ class ThisDemo
 	System.out.println("hello world");
 	System.out.println("suryateja gamidi");
 
-	System.out.println("rai rai this is surya");
+	System.out.println("updated java file");
 
 	}
 }
